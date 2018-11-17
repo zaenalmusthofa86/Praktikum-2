@@ -1,7 +1,8 @@
-# Praktikum-2
+# Praktikum_2
 
 
 #Latihan pertama (Membuat penentuan bilangan terbesar dari 3 variabel)
+```
 -Mendeklarasikan variabel int a,b,c sebagai variabel input
 -Menginputkan nilai a,b,c
 -Membandingkan nilai a,b,c dengan rumus if
@@ -37,12 +38,13 @@ int main()
     }
     return 0;
 }
-
+```
 -Berikut hasil screenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-2/blob/master/Latihan1.png) 
 
 #Latihan kedua (Membuat penentuan bilangan terbesar dari 4 variabel)
+```
 -Mendeklarasikan variabel int A,B,C,D sebagai variabel input
 -Menginputkan nilai A,B,C,D
 -Membandingkan nilai A,B,C,D dengan rumus if
@@ -92,7 +94,7 @@ int main()
     }
                    }
  }
-
+```
 -Berikut hasil screeenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-2/blob/master/Latihan2.png) 
