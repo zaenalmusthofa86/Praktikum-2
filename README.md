@@ -1,7 +1,7 @@
 # Praktikum_2
 
 
-#Latihan pertama (Membuat penentuan bilangan terbesar dari 3 variabel)
+# Latihan pertama (Membuat penentuan bilangan terbesar dari 3 variabel)
 ```
 -Mendeklarasikan variabel int a,b,c sebagai variabel input
 -Menginputkan nilai a,b,c
@@ -43,7 +43,7 @@ int main()
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum-2/blob/master/Latihan1.png) 
 
-#Latihan kedua (Membuat penentuan bilangan terbesar dari 4 variabel)
+# Latihan kedua (Membuat penentuan bilangan terbesar dari 4 variabel)
 ```
 -Mendeklarasikan variabel int A,B,C,D sebagai variabel input
 -Menginputkan nilai A,B,C,D
